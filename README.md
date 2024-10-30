@@ -1,4 +1,5 @@
 # Hi, I'm Owen!
+![Rainy For Coding](https://github.com/owennemo/owennemo/blob/main/Images/cinemagraph_rainy_days_by_lemmino.gif)
 
 ## 💫 About Me:
 👨🏻‍💻 Working as Full Stack Developer
