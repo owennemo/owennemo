@@ -4,7 +4,7 @@
 ![Rainy For Coding](https://github.com/owennemo/owennemo/blob/main/Images/cinemagraph_rainy_days_by_lemmino.gif)
 
 ## 💫 About Me:
-👨🏻‍💻 Working as Full Stack Developer
+👨🏻‍💻 Working as Full-Stack Developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youmingwen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owen-djoenaedi-b180091b9) 
