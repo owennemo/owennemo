@@ -1,6 +1,6 @@
 # Hi, I'm Owen!
 
-### 🌧️ A Rainy Mood for Coding
+### 🌧️ Mood for Coding
 ![Rainy For Coding](https://github.com/owennemo/owennemo/blob/main/Images/cinemagraph_rainy_days_by_lemmino.gif)
 
 ## 💫 About Me:
